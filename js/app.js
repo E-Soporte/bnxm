@@ -1,4 +1,4 @@
-﻿const formulario = document.getElementById('formulario');
+const formulario = document.getElementById('formulario');
 const registro = document.getElementById('registro');
 const exito = document.getElementById('exito');
 
